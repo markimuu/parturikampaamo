@@ -41,9 +41,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `node luoKanta.js`
 
-Luo sqlite tietokanta.
+Luo sqlite tietokannan. 
 
 ### `node parturiServer.js`
 
-Käynnistä palvelinohjelma, joka käyttää sqlite3 tietokantaa.
+Käynnistäö palvelinohjelman, joka käyttää sqlite tietokantaa.
 
